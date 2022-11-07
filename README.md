@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-    <h3 align="center">
+  <h3 align="center">
   <a href="https://t.me/Glebinside">
-   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 <h1 align="center">Hi there, I'm Gleb 
@@ -16,7 +16,7 @@
   ### :man_technologist: About Me :
   
   I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-  - :telescope: I am working on backend projects, improving my skills.
+- :telescope: I am working on backend projects, improving my skills.
 
 - :seedling: Exploring Technical Content Writing. 
 
@@ -40,7 +40,7 @@
   
 ### :fire: My Stats :
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=glebinside&theme=darkhub&no-bg=true)](https://github.com/glebinside/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=glebinside&theme=darkhub&no-bg=true)](https://github.com/glebinside/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=glebinside&theme=dark)](https://git.io/streak-stats)
 
