@@ -7,10 +7,10 @@
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-<h1 align="center">Hi there, I'm Gleb 
+<h1 align="center" style = "border-bottom:none">Hi there, I'm Gleb 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> 
 </h1>
-
+  
   ---
   
   ### :man_technologist: About Me :
